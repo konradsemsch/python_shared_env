@@ -13,6 +13,14 @@ jupyterlab = "*"
 nodejs = "*"
 npm = "*"
 python-language-server = {extras = ["all"],version = "*"}
+pep8 = "*"
+jep = "*"
+jedi = "*"
+pyspark = "*"
+virtualenv = "*"
+pycodestyle = "*"
+mlxtend = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
